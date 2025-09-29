@@ -11,3 +11,5 @@ Both website and app are built on modern, scalable stacks—React/Next.js for we
 SmartBin’s goal is to make source segregation easy and rewarding, turn more organic waste into safe compost locally, optimize collection logistics, and enable cities and communities to achieve cleaner, greener living.
 
 See repository for setup instructions, backend integration, UI screenshots, and feature roadmap. Contributions for new features, integrations, and localization are encouraged
+
+The link of the website is: https://lovable.dev/projects/b78dc6d8-e117-4976-81a5-7fc49d32f97e
