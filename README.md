@@ -13,3 +13,5 @@ SmartBin’s goal is to make source segregation easy and rewarding, turn more or
 See repository for setup instructions, backend integration, UI screenshots, and feature roadmap. Contributions for new features, integrations, and localization are encouraged
 
 The link of the website is: https://lovable.dev/projects/b78dc6d8-e117-4976-81a5-7fc49d32f97e
+
+Demonstration video is available on youtube: https://youtu.be/ubYUlqp7vNY?si=h52RHVd2RJSQfpFB
