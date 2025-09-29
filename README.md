@@ -15,3 +15,6 @@ See repository for setup instructions, backend integration, UI screenshots, and 
 The link of the website is: https://lovable.dev/projects/b78dc6d8-e117-4976-81a5-7fc49d32f97e
 
 Demonstration video is available on youtube: https://youtu.be/ubYUlqp7vNY?si=h52RHVd2RJSQfpFB
+
+<img width="1080" height="615" alt="image" src="https://github.com/user-attachments/assets/d67c9bd1-72fb-4865-b140-f5161c259fac" />
+
